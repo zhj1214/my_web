@@ -3,10 +3,12 @@
  * @Version: 0.0.1
  * @Autor: zhj1214
  * @Date: 2021-03-15 10:42:14
- * @LastEditors: zhj1214
- * @LastEditTime: 2021-03-15 10:42:25
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2021-07-25 18:30:45
  */
 module.exports = {
+  publicPath:'',
+  outputDir: "docs",
   pages: {
     index: {
       // page 的入口
