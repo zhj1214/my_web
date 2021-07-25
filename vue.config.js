@@ -4,10 +4,10 @@
  * @Autor: zhj1214
  * @Date: 2021-03-15 10:42:14
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2021-07-25 18:51:29
+ * @LastEditTime: 2021-07-25 18:57:35
  */
 module.exports = {
-  publicPath:'./',
+  publicPath:'/my_web/',
   outputDir: "docs",
   pages: {
     index: {
